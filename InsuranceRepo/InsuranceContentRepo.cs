@@ -22,7 +22,7 @@ namespace InsuranceRepo
             return _listOfBadges;
         }
 
-        public void AddDoorAcess(int badgeID, string doorNames)
+        public void AddDoorAccess(int badgeID, string doorNames)
         {
             List<string> door = _listOfBadges[badgeID];
             door.Add(doorNames);

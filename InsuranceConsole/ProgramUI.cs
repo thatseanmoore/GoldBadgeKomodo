@@ -93,6 +93,47 @@ namespace InsuranceConsole
             {
                 Console.WriteLine(badgeNum + " no longer has access");
             }
+            Console.WriteLine("Please select an option: \n" +
+                "1. Remove door\n" +
+                "2. Add door\n");
+            string input = Console.ReadLine();
+
+            if (input == "1")
+            {
+                if (door.Count > 0)
+                {
+                    Console.WriteLine("What door do you wish to remove? ");
+
+                    string doorInput = Console.ReadLine().ToUpper();
+
+                    _badgesRepo.RemoveDoorAccess(badgeNum, doorInput);
+
+                    Console.WriteLine("Door access removed\n");
+                    if (door.Count > 0)
+                    {
+                        Console.WriteLine(badgeNum + " has access to " + string.Join("&", door));
+                    }
+                    else
+                    {
+                        Console.WriteLine(badgeNum + " no longer has access");
+                    }
+                }
+
+                else
+                {
+                    Console.WriteLine(badgeNum + " no longer has access");
+
+                }
+            }
+            else if (input == "2")
+            {
+                Console.WriteLine("What door do you wish to remove?\n ");
+                string doorInput = Console.ReadLine();
+
+                _badgesRepo.AddDoorAccess(badgeNum, doorInput);
+                Console.WriteLine("Door access has been added.\n");
+                Console.WriteLine(badgeNum + " has access to " + string.Join(" & ", door));
+            }
         }
         private void ListAllBadges()
         {
