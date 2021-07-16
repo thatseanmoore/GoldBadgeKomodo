@@ -57,7 +57,7 @@ namespace ClaimsConsole
         private void DisplayAllClaims()
         {
             Console.Clear();
-            Queue<ClaimsContent> listofClaimsContent = _claimsContentRepo.GetClaimsContentsList();
+            List<ClaimsContent> listofClaimsContent = _claimsContentRepo.GetClaimsContentsList();
             foreach (ClaimsContent content in listofClaimsContent)
             {
                 Console.WriteLine($"ClaimID: {content.ClaimID}\n" +

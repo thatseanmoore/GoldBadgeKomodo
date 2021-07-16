@@ -4,3 +4,8 @@ C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\bin\De
 C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\obj\Debug\ClaimsConsole.csproj.CoreCompileInputs.cache
 C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\obj\Debug\ClaimsConsole.exe
 C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\obj\Debug\ClaimsConsole.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\obj\Debug\ClaimsConsole.csproj.AssemblyReference.cache
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\bin\Debug\ClaimsRepo.dll
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\bin\Debug\ClaimsRepo.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\bin\Debug\ClaimsRepo.dll.config
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\obj\Debug\ClaimsConsole.csproj.CopyComplete

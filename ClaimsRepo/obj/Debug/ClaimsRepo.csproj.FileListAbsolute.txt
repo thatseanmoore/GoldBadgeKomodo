@@ -1,7 +1,7 @@
-C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsRepo\bin\Debug\ClaimsRepo.exe.config
-C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsRepo\bin\Debug\ClaimsRepo.exe
 C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsRepo\bin\Debug\ClaimsRepo.pdb
 C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsRepo\obj\Debug\ClaimsRepo.csproj.AssemblyReference.cache
 C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsRepo\obj\Debug\ClaimsRepo.csproj.CoreCompileInputs.cache
-C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsRepo\obj\Debug\ClaimsRepo.exe
 C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsRepo\obj\Debug\ClaimsRepo.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsRepo\bin\Debug\ClaimsRepo.dll.config
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsRepo\bin\Debug\ClaimsRepo.dll
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsRepo\obj\Debug\ClaimsRepo.dll
