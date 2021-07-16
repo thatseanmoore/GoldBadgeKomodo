@@ -1,0 +1,11 @@
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeConsole\bin\Debug\CafeConsole.exe.config
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeConsole\bin\Debug\CafeConsole.exe
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeConsole\bin\Debug\CafeConsole.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeConsole\bin\Debug\CafeRepo.dll
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeConsole\bin\Debug\CafeRepo.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeConsole\bin\Debug\CafeRepo.dll.config
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeConsole\obj\Debug\CafeConsole.csproj.AssemblyReference.cache
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeConsole\obj\Debug\CafeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeConsole\obj\Debug\CafeConsole.csproj.CopyComplete
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeConsole\obj\Debug\CafeConsole.exe
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeConsole\obj\Debug\CafeConsole.pdb

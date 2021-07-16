@@ -1,0 +1,6 @@
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\bin\Debug\ClaimsConsole.exe.config
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\bin\Debug\ClaimsConsole.exe
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\bin\Debug\ClaimsConsole.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\obj\Debug\ClaimsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\obj\Debug\ClaimsConsole.exe
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\ClaimsConsole\obj\Debug\ClaimsConsole.pdb

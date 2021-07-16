@@ -1,0 +1,7 @@
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeRepo\bin\Debug\CafeRepo.dll.config
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeRepo\bin\Debug\CafeRepo.dll
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeRepo\bin\Debug\CafeRepo.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeRepo\obj\Debug\CafeRepo.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeRepo\obj\Debug\CafeRepo.dll
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeRepo\obj\Debug\CafeRepo.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\CafeRepo\obj\Debug\CafeRepo.csproj.AssemblyReference.cache

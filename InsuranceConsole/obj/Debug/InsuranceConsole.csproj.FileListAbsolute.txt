@@ -1,0 +1,11 @@
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceConsole\bin\Debug\InsuranceConsole.exe.config
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceConsole\bin\Debug\InsuranceConsole.exe
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceConsole\bin\Debug\InsuranceConsole.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceConsole\obj\Debug\InsuranceConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceConsole\obj\Debug\InsuranceConsole.exe
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceConsole\obj\Debug\InsuranceConsole.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceConsole\obj\Debug\InsuranceConsole.csproj.AssemblyReference.cache
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceConsole\bin\Debug\InsuranceRepo.dll
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceConsole\bin\Debug\InsuranceRepo.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceConsole\bin\Debug\InsuranceRepo.dll.config
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceConsole\obj\Debug\InsuranceConsole.csproj.CopyComplete

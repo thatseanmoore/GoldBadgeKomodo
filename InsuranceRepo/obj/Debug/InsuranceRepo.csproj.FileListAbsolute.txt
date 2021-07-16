@@ -1,0 +1,7 @@
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceRepo\bin\Debug\InsuranceRepo.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceRepo\obj\Debug\InsuranceRepo.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceRepo\obj\Debug\InsuranceRepo.pdb
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceRepo\obj\Debug\InsuranceRepo.csproj.AssemblyReference.cache
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceRepo\bin\Debug\InsuranceRepo.dll.config
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceRepo\bin\Debug\InsuranceRepo.dll
+C:\Users\Sean\Documents\ElevenFiftyProjects\GoldBadgeKomodo\InsuranceRepo\obj\Debug\InsuranceRepo.dll
